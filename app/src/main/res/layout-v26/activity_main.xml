@@ -26,7 +26,7 @@
             android:textSize="24sp"
             android:id="@+id/message_input"
             android:autofillHints=""
-            android:inputType="" tools:targetApi="o"/>
+            android:inputType="" />
 
         <Button
             android:id="@+id/send_message_b"
